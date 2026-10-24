@@ -105,9 +105,8 @@ https://careercopilot-ai.vercel.app
 
 | 🚀 Frontend | 🧪 Testing | 🤖 AI Architecture |
 |------------|------------|-------------------|
-| <img src="./public/images/front-end-1.jpg" width="300" alt="Frontend" /> | <img src="./public/images/web-dev-1.jpg" width="300" alt="Testing" /> | <img src="./public/images/ChatGPT.webp" width="300" alt="AI Architecture" /> |
-| React<br>Vite<br>JavaScript (ES6+)<br>SCSS Modules<br>Custom Hooks | Vitest<br>Unit Tests<br>Component Tests<br>Coverage |
-Anthropic Claude API (planned integration) <br>Custom prompt builder <br>Structured response parser <br>Analysis schema validation 
+| ![Frontend](public/images/front-end-1.jpg) | ![Testing](public/images/front-end.png) | ![AI Architecture](public/images/ai-integration.png) |
+| React<br>Vite<br>JavaScript (ES6+)<br>SCSS Modules<br>Custom Hooks | Vitest<br>Unit Tests<br>Component Tests<br>Coverage Reports | Anthropic Claude API *(Planned Integration)*<br>Custom Prompt Builder<br>Structured Response Parser<br>Analysis Schema Validation |
 
 ---
 
