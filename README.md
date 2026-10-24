@@ -1,89 +1,36 @@
 # CareerCopilot AI
 
 ![Header](./public/images/header.png)
-<p align="center">
 
-<img src="./screenshots/header.png" alt="CareerCopilot AI Header"/>
 
-</p>
-
-<h1 align="center">CareerCopilot AI</h1>
-
-<p align="center">
-  AI-Powered Resume Analysis & Career Guidance Platform
-</p>
-
-<p align="center">
 
 ![Capstone](https://img.shields.io/badge/Capstone-Production--Ready%20AI--Enhanced%20Frontend%20Application-6C63FF?style=for-the-badge)
-
 ![Track](https://img.shields.io/badge/Track-Frontend%20AI%20Engineering-00C2FF?style=for-the-badge)
-
 ![Week](https://img.shields.io/badge/Week-8-FFB703?style=for-the-badge)
 
-</p>
-
-<p align="center">
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![SCSS](https://img.shields.io/badge/SCSS-Modules-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-</p>
-
-<p align="center">
-
-![AI Integration](https://img.shields.io/badge/AI%20Integration-Claude%20API-7C3AED?style=flat-square)
-
+![Claude API](https://img.shields.io/badge/AI%20Integration-Claude%20API-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Structured%20Output-8B5CF6?style=flat-square)
+![Resume Analysis](https://img.shields.io/badge/AI%20Use%20Case-Resume%20Analysis-9333EA?style=flat-square)
 
-![Validation](https://img.shields.io/badge/Response-Validation-success?style=flat-square)
-
-![Error Handling](https://img.shields.io/badge/Error%20Handling-Implemented-orange?style=flat-square)
-
-</p>
-
-<p align="center">
+![Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel)
+![Production Ready](https://img.shields.io/badge/Production%20Ready-Yes-success?style=flat-square)
+![Frontend AI](https://img.shields.io/badge/Frontend-AI%20Enhanced-0EA5E9?style=flat-square)
 
 ![Testing](https://img.shields.io/badge/Testing-FE--09-22C55E?style=flat-square)
-
 ![Unit Tests](https://img.shields.io/badge/Unit%20Testing-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-![Coverage](https://img.shields.io/badge/Coverage-50%25%2B-success?style=flat-square)
-
-</p>
-
-<p align="center">
-
-![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-blue?style=flat-square)
-
-![Performance](https://img.shields.io/badge/Lighthouse-90%2B-important?style=flat-square)
-
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-0EA5E9?style=flat-square)
-
-</p>
-
-<p align="center">
-
-![Deployment](https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square&logo=vercel)
-
-![Frontend](https://img.shields.io/badge/Status-MVP%20Complete-success?style=flat-square)
-
-![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=flat-square)
-
-</p>
-
-<p align="center">
+![Integration Tests](https://img.shields.io/badge/Integration%20Testing-Supported-10B981?style=flat-square)
+![E2E Tests](https://img.shields.io/badge/E2E%20Testing-Ready-14B8A6?style=flat-square)
 
 ![Reflection](https://img.shields.io/badge/Reflection-Learning%20Over%20Ego-EC4899?style=flat-square)
+![Growth Mindset](https://img.shields.io/badge/Growth%20Mindset-Continuous%20Improvement-F97316?style=flat-square)
+![Lessons Learned](https://img.shields.io/badge/Lessons%20Learned-Captured-blueviolet?style=flat-square)
 
-![Portfolio](https://img.shields.io/badge/Portfolio%20Project-Production%20Ready-10B981?style=flat-square)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-Modules-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-</p>
+> AI-Powered Resume Analysis & Career Guidance Platform
 
 ## Project Brief
 
@@ -160,6 +107,7 @@ https://careercopilot-ai.vercel.app
 |------------|------------|-------------------|
 | <img src="./public/images/front-end-1.jpg" width="300" alt="Frontend" /> | <img src="./public/images/web-dev-1.jpg" width="300" alt="Testing" /> | <img src="./public/images/ChatGPT.webp" width="300" alt="AI Architecture" /> |
 | React<br>Vite<br>JavaScript (ES6+)<br>SCSS Modules<br>Custom Hooks | Vitest<br>Unit Tests<br>Component Tests<br>Coverage |
+Anthropic Claude API (planned integration) <br>Custom prompt builder <br>Structured response parser <br>Analysis schema validation 
 
 ---
 
