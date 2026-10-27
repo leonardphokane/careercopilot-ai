@@ -39,9 +39,11 @@ CareerCopilot AI is a frontend application that helps job seekers evaluate how w
 
 ---
 
-## Live Application
+## 🚀 Live Deployment
 
-[**Deployment URL:**](https://careercopilot-ai-jet.vercel.app/)
+🔗 **Live App:** https://careercopilot-ai-jet.vercel.app/
+
+👉 **[Launch CareerCopilot AI](https://careercopilot-ai-jet.vercel.app/)**
 
 
 ---
